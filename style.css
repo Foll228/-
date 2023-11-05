@@ -1,0 +1,114 @@
+@font-face {
+    font-family: "Anonymous Pro";
+    src: url(fonts/AnonymousPro-Bold.ttf);
+    font-weight: 700;
+}
+
+@font-face {
+  font-family: "Anonymous Pro";
+  src: url(fonts/AnonymousPro-Regular.ttf);
+}
+
+h1 {
+    font-family: "Anonymous Pro", sans-serif;
+    font-size: 56px;
+    width: 1440px;
+    height: 48px;
+}
+
+h2 {
+  font-family: "Anonymous Pro", sans-serif;
+	font-size: 48px;
+}
+
+.container {
+	display: flex;
+	margin: 0 auto;
+  flex-wrap: wrap;
+  max-width: 1161px;
+}
+
+h3 {
+  font-family: "Anonymous Pro", sans-serif;
+	font-size: 26px;
+  width: 350px;
+}
+
+p {
+  font-family: "Anonymous Pro", sans-serif;
+  font-size: 14px;
+  width: 300px;
+}
+
+img {
+	width: 371px;
+  height: 254px;
+}
+.logo {
+ width: auto;
+}
+
+.logo_img {
+  width: 212px;
+  height: 63px;
+  margin-top: 30px;
+  margin-right: 950px;
+  margin-left: 19%;
+}
+
+.logo_tg {
+  display: inline;
+  font-size: 19px;
+  margin: 5px;
+  margin-left: 7px;
+  gap: 10px;
+}
+.title_list {
+  margin-left: 19%;
+
+}
+a {
+ font-style: none;
+ list-style: none;
+ text-decoration: none;
+ color: black;
+}
+.footer {
+  background-color: #121723;
+}
+
+.footer_img {
+  width: 300px;
+  height: 22px;
+  margin-left: 18%;
+  margin-right: 880px;
+  margin-top: 20px;
+}
+.card_container {
+  width: 371px;
+}
+
+.logo_tg_footer {
+  display: inline;
+  font-size: 19px;
+  margin: 5px;
+  margin-left: 7px;
+  gap: 10px;
+  color: white;
+
+}
+
+.end_list {
+  width: 184px;
+  height: 16px;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 10px auto;
+  margin-top: 15px;
+}
+
+.footer {
+  width: 100%;
+  height: 100px;
+
+}
